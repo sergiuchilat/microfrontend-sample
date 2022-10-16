@@ -1,0 +1,10 @@
+{
+  "name": "module-federation-sample",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "app",
+      "nav-components"
+    ]
+  }
+}

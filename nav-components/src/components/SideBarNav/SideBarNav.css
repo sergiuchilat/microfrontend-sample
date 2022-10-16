@@ -1,0 +1,11 @@
+.side-bar-nav{
+    position: absolute;
+    width: 20em;
+    height: 100vh;
+    background-color: lightblue;
+}
+
+.side-bar-nav .items a{
+    display: block;
+    margin-left: 2em;
+}

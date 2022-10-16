@@ -34,7 +34,7 @@ module.exports = {
     new ModuleFederationPlugin({
       name: 'app',
       remotes: {
-        nav: 'nav@http://localhost:3002/remoteEntry.js',
+        nav: 'nav@https://micro-frontend-nav-compo-59a68.web.app/remoteEntry.js',
       },
       shared: { react: { singleton: true }, 'react-dom': { singleton: true } },
     }),

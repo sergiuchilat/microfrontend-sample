@@ -6,5 +6,9 @@ export default [
     {
         url: 'products',
         label: 'Products'
+    },
+    {
+        url: 'orders',
+        label: 'Orders'
     }
 ]

@@ -5,4 +5,5 @@ export default function Footer() {
             &copy; Application Footer
         </footer>
     )
+
 }

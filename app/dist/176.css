@@ -1,0 +1,25 @@
+nav #app-logo{
+    border: 1px solid cornflowerblue;
+    border-radius: 0.2em;
+    font-size: 2em;
+    color: red !important;
+    text-align: center;
+    background-color: antiquewhite;
+    width: 128px;
+}
+
+header{
+    background-color: deepskyblue;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 2em;
+}
+
+footer{
+    background-color: #333;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 2em;
+}

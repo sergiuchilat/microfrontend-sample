@@ -4,7 +4,8 @@
   "workspaces": {
     "packages": [
       "app",
-      "nav-components"
+      "nav-components",
+      "user-cabinet"
     ]
   }
 }
